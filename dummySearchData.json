@@ -1,0 +1,1057 @@
+[
+        {
+            "employer_name": "NewVine Employment Group",
+            "employer_logo": null,
+            "employer_website": null,
+            "employer_company_type": null,
+            "job_publisher": "NewVine Employment Group",
+            "job_id": "LawSX6UclTp5mtApAAAAAA==",
+            "job_employment_type": "FULLTIME",
+            "job_title": "React Developer",
+            "job_apply_link": "https://jobs.newvinegroup.com/jobs/3349865-react-developer",
+            "job_apply_is_direct": false,
+            "job_apply_quality_score": 0.6934,
+            "apply_options": [
+                {
+                    "publisher": "NewVine Employment Group",
+                    "apply_link": "https://jobs.newvinegroup.com/jobs/3349865-react-developer",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/react-developer-at-newvine-employment-group-3763407244",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Glassdoor",
+                    "apply_link": "https://www.glassdoor.com/job-listing/react-developer-skyhop-global-JV_KO0,15_KE16,29.htm?jl=1008938113283",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "Indeed",
+                    "apply_link": "https://www.indeed.com/viewjob?jk=59dd71df1370356c",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "ZipRecruiter",
+                    "apply_link": "https://www.ziprecruiter.com/c/NewVine-Employment-Group/Job/React-Developer/-in-Fort-Lauderdale,FL?jid=c11f5ee97057fdbd",
+                    "is_direct": true
+                }
+            ],
+            "job_description": "We are on the lookout for a dedicated React Developer with a minimum of three years of experience working extensively with the React framework. The ideal candidate will have a strong understanding of design patterns and principles behind writing clean, modular, and functional code. Passion for front-end development, an eye for detail, and a commitment to creating intuitive user experiences are crucial for this role.\n\nCOMPENSATION: $120,000/annually\nAvailable Shift: Normal Business Hours (Monday - Friday).\nWorksite Location: Remote\n\nKey Responsibilities:\n• Develop, maintain, and improve user-facing features using React.js.\n• Build reusable components and front-end libraries for future use, ensuring feasibility and viability.\n• Translate designs and wireframes into high-quality, high-performing code.\n• Optimize components for maximum performance across a vast array of web-capable devices and browsers.\n• Work closely with back-end developers and web designers to improve usability and meet product stakeholder requirements.\n• Maintain a comprehensive understanding of the project and its requirements, recommending changes and enhancements as necessary.\n• Stay up-to-date with emerging technologies and trends, particularly concerning React.js, GraphQL, and Apollo.\n• Use your knowledge of HTML, CSS, and APIs to enhance the overall functionality and user experience of our products.\n\nQualifications:\n• Bachelor's degree in Computer Science, Information Technology, or a related field.\n• Minimum of three years of experience working with the React.js framework.\n• Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model.\n• Thorough understanding of React.js and its core principles, including familiarity with newer specifications of EcmaScript.\n• Experience with popular React.js workflows, such as Flux or Redux.\n• Familiarity with RESTful APIs and knowledge in HTML/CSS.\n• Bonus points for experience with GraphQL and Apollo.\n• Knowledge of modern authorization mechanisms, such as JSON Web Token.\n• Commitment to writing readable, maintainable, scalable, and clean code.\n• Passion for front-end development and delivering high-quality user experiences.\n• Strong analytical skills and problem-solving aptitude.",
+            "job_is_remote": true,
+            "job_posted_at_timestamp": 1699650239,
+            "job_posted_at_datetime_utc": "2023-11-10T21:03:59.000Z",
+            "job_city": "Fort Lauderdale",
+            "job_state": "FL",
+            "job_country": "US",
+            "job_latitude": 26.122438,
+            "job_longitude": -80.137314,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react&htidocid=LawSX6UclTp5mtApAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": null,
+            "job_offer_expiration_timestamp": null,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": 36,
+                "experience_mentioned": true,
+                "experience_preferred": false
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": false,
+                "degree_mentioned": true,
+                "degree_preferred": true,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_currency": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "We are on the lookout for a dedicated React Developer with a minimum of three years of experience working extensively with the React framework",
+                    "The ideal candidate will have a strong understanding of design patterns and principles behind writing clean, modular, and functional code",
+                    "Passion for front-end development, an eye for detail, and a commitment to creating intuitive user experiences are crucial for this role",
+                    "Bachelor's degree in Computer Science, Information Technology, or a related field",
+                    "Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model",
+                    "Thorough understanding of React.js and its core principles, including familiarity with newer specifications of EcmaScript",
+                    "Experience with popular React.js workflows, such as Flux or Redux",
+                    "Familiarity with RESTful APIs and knowledge in HTML/CSS",
+                    "Bonus points for experience with GraphQL and Apollo",
+                    "Knowledge of modern authorization mechanisms, such as JSON Web Token",
+                    "Commitment to writing readable, maintainable, scalable, and clean code",
+                    "Passion for front-end development and delivering high-quality user experiences",
+                    "Strong analytical skills and problem-solving aptitude"
+                ],
+                "Responsibilities": [
+                    "Develop, maintain, and improve user-facing features using React.js",
+                    "Build reusable components and front-end libraries for future use, ensuring feasibility and viability",
+                    "Translate designs and wireframes into high-quality, high-performing code",
+                    "Optimize components for maximum performance across a vast array of web-capable devices and browsers",
+                    "Work closely with back-end developers and web designers to improve usability and meet product stakeholder requirements",
+                    "Maintain a comprehensive understanding of the project and its requirements, recommending changes and enhancements as necessary",
+                    "Stay up-to-date with emerging technologies and trends, particularly concerning React.js, GraphQL, and Apollo",
+                    "Use your knowledge of HTML, CSS, and APIs to enhance the overall functionality and user experience of our products"
+                ],
+                "Benefits": [
+                    "COMPENSATION: $120,000/annually",
+                    "Available Shift: Normal Business Hours (Monday - Friday)"
+                ]
+            },
+            "job_job_title": null,
+            "job_posting_language": "en",
+            "job_onet_soc": "15113400",
+            "job_onet_job_zone": "3"
+        },
+        {
+            "employer_name": "Dexian",
+            "employer_logo": null,
+            "employer_website": null,
+            "employer_company_type": null,
+            "job_publisher": "Dexian",
+            "job_id": "p8aV4P0so0WcfSeQAAAAAA==",
+            "job_employment_type": "FULLTIME",
+            "job_title": "Front End Developer-React",
+            "job_apply_link": "https://careers.dexian.com/job/front-end-developer-react",
+            "job_apply_is_direct": false,
+            "job_apply_quality_score": 0.6887,
+            "apply_options": [
+                {
+                    "publisher": "Dexian",
+                    "apply_link": "https://careers.dexian.com/job/front-end-developer-react",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Dexian - Dexian DISYS",
+                    "apply_link": "https://careers.disys.com/job/front-end-developer-react",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "• 5+ years of experience in front-end/UI development\n• Proficiency in ReactJS, Redux/Redux-Saga and testing frameworks (Jest, Enzyme, Mocha, Karma, etc.)\n• Strong knowledge in web package management, transpiler and bundler (npm, pnpm, babel, webpack, etc.)\n• 4+ years of experience working with UI frameworks and libraries (Material UI, ReactJS, Vue.js, etc.)\n• Experience working with REST APIs and OAuth2 authentication/authorization.\n\nDexian is a leading provider of staffing, IT, and workforce solutions with over 12,000 employees and 70 locations worldwide. As one of the largest IT staffing companies and the 2nd largest minority-owned staffing company in the U.S., Dexian was formed in 2023 through the merger of DISYS and Signature Consultants. Combining the best elements of its core companies, Dexian's platform connects talent, technology, and organizations to produce game-changing results that help everyone achieve their ambitions and goals.\n\nDexian's brands include Dexian DISYS, Dexian Signature Consultants, Dexian Government Solutions, Dexian Talent Development and Dexian IT Solutions. Visit https://dexian.com/ to learn more.\n\nDexian is an Equal Opportunity Employer that recruits and hires qualified candidates without regard to race, religion, sex, sexual orientation, gender identity, age, national origin, ancestry, citizenship, disability, or veteran status.",
+            "job_is_remote": false,
+            "job_posted_at_timestamp": 1699659066,
+            "job_posted_at_datetime_utc": "2023-11-10T23:31:06.000Z",
+            "job_city": null,
+            "job_state": "TX",
+            "job_country": "US",
+            "job_latitude": 31.9686,
+            "job_longitude": -99.90181,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react&htidocid=p8aV4P0so0WcfSeQAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": "2023-12-10T23:59:59.000Z",
+            "job_offer_expiration_timestamp": 1702252799,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": 60,
+                "experience_mentioned": true,
+                "experience_preferred": false
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": false,
+                "degree_mentioned": false,
+                "degree_preferred": false,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_currency": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Proficiency in ReactJS, Redux/Redux-Saga and testing frameworks (Jest, Enzyme, Mocha, Karma, etc.)",
+                    "Strong knowledge in web package management, transpiler and bundler (npm, pnpm, babel, webpack, etc.)",
+                    "4+ years of experience working with UI frameworks and libraries (Material UI, ReactJS, Vue.js, etc.)",
+                    "Experience working with REST APIs and OAuth2 authentication/authorization"
+                ]
+            },
+            "job_job_title": null,
+            "job_posting_language": "en",
+            "job_onet_soc": "15113400",
+            "job_onet_job_zone": "3"
+        },
+        {
+            "employer_name": "Verizon",
+            "employer_logo": "https://www.verizon.com/cs/groups/public/documents/adacct/vzlogo_lg.png",
+            "employer_website": "http://www.verizon.com",
+            "employer_company_type": "Information",
+            "job_publisher": "LinkedIn",
+            "job_id": "LORRHSDdVJF0HTvvAAAAAA==",
+            "job_employment_type": "FULLTIME",
+            "job_title": "React JS Developer",
+            "job_apply_link": "https://www.linkedin.com/jobs/view/react-js-developer-at-verizon-3762713160",
+            "job_apply_is_direct": false,
+            "job_apply_quality_score": 0.6777,
+            "apply_options": [
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/react-js-developer-at-verizon-3762713160",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "SimplyHired",
+                    "apply_link": "https://www.simplyhired.com/job/6JnpFAeLb3800r9-QsxgFCZ-POgyyfccQLO8lIRSAA1PmwFwQ6julQ",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Talent.com",
+                    "apply_link": "https://www.talent.com/view?id=b8746e7c0994",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "BeBee",
+                    "apply_link": "https://us.bebee.com/job/20231111-92320596fb38c7eeca223e5a0ea63ebc",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Adzuna",
+                    "apply_link": "https://www.adzuna.com/details/4426050367",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "When you join Verizon\n\nVerizon is one of the world's leading providers of technology and communications services, transforming the way we connect around the world. We're a human network that reaches across the globe and works behind the scenes. We anticipate, lead, and believe that listening is where learning begins. In crisis and in celebration, we come together-lifting up our communities and striving to make an impact to move the world forward. If you're fueled by purpose, and powered by persistence, explore a career with us. Here, you'll discover the rigor it takes to make a difference and the fulfillment that comes with living the #NetworkLife.\n\nWhat you'll be doing...\n\nJoin Verizon in this React JS Developer role for the Network Security Team. This position will expand our Network Security IAM User Experience Team with a role emphasis on software engineering. This exciting growth opportunity shall act as an engineer within an existing team focused on security engineering and automation. This is a development role in which the developer should have knowledge of coding with security in mind. The candidate shall be responsible for developing the front end as well as some back-end components, supporting & implementing feature development, leading code reviews, and ensuring our internal applications maintain a highly secure code standard. This opportunity is on a team that is highly visible and plays a significant role in advancing our security posture and improving the end-user experience.\n\nJob responsibilities include:\n• Effectively navigating diverse perspectives and promoting an inclusive and collaborative environment.\n• Managing project tasks with urgency and purpose, demonstrating initiative, and exemplifying ownership of all assigned job responsibilities.\n• Having a solid understanding of Network Engineering languages, terminology, and how networks work.\n• Consistently delivering high-quality work that fully addresses the intended criteria, goals, and objectives.\n• Deconstructing, decoupling, and parceling complex technical challenges to ensure actionable plans and progress.\n• Effectively communicating verbally and in multiple written mediums to stakeholders, team members, and leaders.\n\nWhat we're looking for...\n\nYou're passionate about security, new technology, and telecommunications. You are a self-starter and perform independently, but you work even better and are driven to thrive as part of a highly motivated team. You're able to prioritize multiple workstreams and keep them moving to resolution. You're good at identifying and balancing priorities while staying focused on meeting key deadlines that envelop multiple stakeholders. As a strong communicator, you can quickly build strategic relationships within a diverse company culture and explain complex technical issues in a way that everyone can understand.\n\nYou'll need to have:\n• Bachelor's degree or four or more years of work experience.\n• Four or more years of relevant work experience.\n• Ability to code in the following and use frameworks: React,Node.js, Next.js, Python, (or other web development technologies).\n• Experience with MySQL/Postgres (or other relational database technologies).\n\nEven better if you have:\n• A degree in Computer Science, Information Systems, Technology, or a related field.\n• Understanding of Computer Networking and Telecommunications Network Topologies.\n• Have experience with with User Experience(UX) Design.\n• Ability to code using current security principles and best practices.\n• Four or more years front-end coding experience with working knowledge back-end coding experience.\n• Any relevant security certifications are a plus.\n\nWhere you'll be working\n\nIn this hybrid role, you'll have a defined work location that includes work from home and assigned office days set by your manager.\n\nScheduled Weekly Hours\n40\n\nEqual Employment Opportunity\n\nWe're proud to be an equal opportunity employer - and celebrate our employees' differences, including race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, and Veteran status. At Verizon, we know that diversity makes us stronger. We are committed to a collaborative, inclusive environment that encourages authenticity and fosters a sense of belonging. We strive for everyone to feel valued, connected, and empowered to reach their potential and contribute their best. Check out our diversity and inclusion page to learn more.",
+            "job_is_remote": false,
+            "job_posted_at_timestamp": 1699622648,
+            "job_posted_at_datetime_utc": "2023-11-10T13:24:08.000Z",
+            "job_city": "Branchburg",
+            "job_state": "NJ",
+            "job_country": "US",
+            "job_latitude": 40.58681,
+            "job_longitude": -74.698586,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react&htidocid=LORRHSDdVJF0HTvvAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": "2023-12-10T13:23:47.000Z",
+            "job_offer_expiration_timestamp": 1702214627,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": 48,
+                "experience_mentioned": true,
+                "experience_preferred": false
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": true,
+                "degree_mentioned": true,
+                "degree_preferred": true,
+                "professional_certification_mentioned": true
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_currency": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "You're passionate about security, new technology, and telecommunications",
+                    "You are a self-starter and perform independently, but you work even better and are driven to thrive as part of a highly motivated team",
+                    "You're able to prioritize multiple workstreams and keep them moving to resolution",
+                    "You're good at identifying and balancing priorities while staying focused on meeting key deadlines that envelop multiple stakeholders",
+                    "As a strong communicator, you can quickly build strategic relationships within a diverse company culture and explain complex technical issues in a way that everyone can understand",
+                    "Bachelor's degree or four or more years of work experience",
+                    "Ability to code in the following and use frameworks: React,Node.js, Next.js, Python, (or other web development technologies)",
+                    "Experience with MySQL/Postgres (or other relational database technologies)",
+                    "A degree in Computer Science, Information Systems, Technology, or a related field",
+                    "Understanding of Computer Networking and Telecommunications Network Topologies",
+                    "Have experience with with User Experience(UX) Design",
+                    "Ability to code using current security principles and best practices",
+                    "Four or more years front-end coding experience with working knowledge back-end coding experience"
+                ],
+                "Responsibilities": [
+                    "Effectively navigating diverse perspectives and promoting an inclusive and collaborative environment",
+                    "Managing project tasks with urgency and purpose, demonstrating initiative, and exemplifying ownership of all assigned job responsibilities",
+                    "Having a solid understanding of Network Engineering languages, terminology, and how networks work",
+                    "Consistently delivering high-quality work that fully addresses the intended criteria, goals, and objectives",
+                    "Deconstructing, decoupling, and parceling complex technical challenges to ensure actionable plans and progress",
+                    "Effectively communicating verbally and in multiple written mediums to stakeholders, team members, and leaders"
+                ],
+                "Benefits": [
+                    "In this hybrid role, you'll have a defined work location that includes work from home and assigned office days set by your manager"
+                ]
+            },
+            "job_job_title": null,
+            "job_posting_language": "en",
+            "job_onet_soc": "15113400",
+            "job_onet_job_zone": "3",
+            "job_naics_code": "517110",
+            "job_naics_name": "Wired Telecommunications Carriers"
+        },
+        {
+            "employer_name": "TEKsystems",
+            "employer_logo": "https://cdn.phenompeople.com/CareerConnectResources/TESYUS/social/1200-1565697280316.png",
+            "employer_website": "http://www.teksystems.com",
+            "employer_company_type": "Staffing",
+            "job_publisher": "TEKsystems Careers",
+            "job_id": "MxmxQDKOXuACYYxVAAAAAA==",
+            "job_employment_type": "FULLTIME",
+            "job_title": "React Developer",
+            "job_apply_link": "https://careers.teksystems.com/us/en/job/JP-004144675/React-Developer",
+            "job_apply_is_direct": false,
+            "job_apply_quality_score": 0.8135,
+            "apply_options": [
+                {
+                    "publisher": "TEKsystems Careers",
+                    "apply_link": "https://careers.teksystems.com/us/en/job/JP-004144675/React-Developer",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/react-developer-at-teksystems-3759592658",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Monster",
+                    "apply_link": "https://www.monster.com/job-openings/react-developer-charlotte-nc--b09e7b25-6a03-490f-a6a4-b9a18b7db6ce",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Dice.com",
+                    "apply_link": "https://www.dice.com/job-detail/c0e3a6af-cc51-41ac-b49b-208c21031279",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Nexxt",
+                    "apply_link": "https://www.nexxt.com/jobs/react-developer-charlotte-nc-2617498857-job.html?aff=2ED44C72-8FD2-4B5D-BC54-2F623E88BE26",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Lensa",
+                    "apply_link": "https://lensa.com/react-developer-jobs/charlotte/jd/f3a456d76e3d1087a57bfcff84a229b4",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "BeBee",
+                    "apply_link": "https://us.bebee.com/job/20231110-edd555b98f582512b4fe49935c3fd6e0",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "React Jobs",
+                    "apply_link": "https://reactjsjob.com/job/2XwgYPyVsduvjQl1c43x6DlTLoi/React%20Developer",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Description:\n\nRequired Skills: ( Team Lead position)\n• 7+ years of Information technology experience in Application and/or Datawarehouse development\n• 5+ years of JavaScript, Node JS, HTML5, CSS/CSS3, Material UI, React. Web based user services leveraging common frameworks such as Django, Node.js, GraphQL or similar\n• 2+ years of experience working with Hadoop big data technologies, such as Hive, Pig, HBase or related technologies\n• 3+ years of experience with SQL database systems and database technologies such as Oracle, MSSQL, Cassandra\n• 2+ years of CI/CD toolset (Git, Bitbucket/GitHub, Jenkins, etc.) experience\n• Testing frameworks like Jest, React Testing Library, Sonar\n• Self-motivated with organizational skills and ability to manage multiple priorities without sacrificing quality or timelines\n• Facilitate communication, influence and negotiate both vertically and horizontally to obtain agreement between partners\n• Experience working in an Agile environment, processes with knowledge of software development lifecycle\n• Excellent communication and collaboration skills analytical and presentation skills\nDesired Skills:\n• Knowledge and understanding of diverse platforms and operating systems, including current and emerging technologies\n• Ability to influence and build relationships with Line-Of-Business stakeholders, technology and architecture teams\n• Experience working with financial institutions, specifically Credit or Market Risk\n\nSkills:\n\nReact\n\nTop Skills Details:\n\nReact\n\nAdditional Skills & Qualifications:\n\nreact\n\nExperience Level:\n\nExpert Level\n\nAbout TEKsystems:\n\nWe're partners in transformation. We help clients activate ideas and solutions to take advantage of a new world of opportunity. We are a team of 80,000 strong, working with over 6,000 clients, including 80% of the Fortune 500, across North America, Europe and Asia. As an industry leader in Full-Stack Technology Services, Talent Services, and real-world application, we work with progressive leaders to drive change. That's the power of true partnership. TEKsystems is an Allegis Group company.\n\nThe company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.",
+            "job_is_remote": false,
+            "job_posted_at_timestamp": 1699472652,
+            "job_posted_at_datetime_utc": "2023-11-08T19:44:12.000Z",
+            "job_city": "Charlotte",
+            "job_state": "NC",
+            "job_country": "US",
+            "job_latitude": 35.227085,
+            "job_longitude": -80.843124,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react&htidocid=MxmxQDKOXuACYYxVAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": null,
+            "job_offer_expiration_timestamp": null,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": 84,
+                "experience_mentioned": true,
+                "experience_preferred": false
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": false,
+                "degree_mentioned": false,
+                "degree_preferred": false,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": 60,
+            "job_max_salary": 70,
+            "job_salary_currency": "USD",
+            "job_salary_period": "HOUR",
+            "job_highlights": {
+                "Qualifications": [
+                    "7+ years of Information technology experience in Application and/or Datawarehouse development",
+                    "5+ years of JavaScript, Node JS, HTML5, CSS/CSS3, Material UI, React",
+                    "Web based user services leveraging common frameworks such as Django, Node.js, GraphQL or similar",
+                    "2+ years of experience working with Hadoop big data technologies, such as Hive, Pig, HBase or related technologies",
+                    "3+ years of experience with SQL database systems and database technologies such as Oracle, MSSQL, Cassandra",
+                    "2+ years of CI/CD toolset (Git, Bitbucket/GitHub, Jenkins, etc.) experience",
+                    "Testing frameworks like Jest, React Testing Library, Sonar",
+                    "Excellent communication and collaboration skills analytical and presentation skills"
+                ],
+                "Responsibilities": [
+                    "Facilitate communication, influence and negotiate both vertically and horizontally to obtain agreement between partners"
+                ]
+            },
+            "job_job_title": null,
+            "job_posting_language": "en",
+            "job_onet_soc": "15113400",
+            "job_onet_job_zone": "3",
+            "job_occupational_categories": [
+                "Developer"
+            ],
+            "job_naics_code": "561311",
+            "job_naics_name": "Employment Placement Agencies"
+        },
+        {
+            "employer_name": "The Select Group",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3CveJlvLrtC5OL24MFp7R1FQgr8Dk0PL85vx2&s=0",
+            "employer_website": null,
+            "employer_company_type": null,
+            "job_publisher": "LinkedIn",
+            "job_id": "B_74OsHSMFf5KDhQAAAAAA==",
+            "job_employment_type": "CONTRACTOR",
+            "job_title": "React Developer - W2 only, no 3rd party vendors",
+            "job_apply_link": "https://www.linkedin.com/jobs/view/react-developer-w2-only-no-3rd-party-vendors-at-the-select-group-3762968153",
+            "job_apply_is_direct": false,
+            "job_apply_quality_score": 0.6694,
+            "apply_options": [
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/react-developer-w2-only-no-3rd-party-vendors-at-the-select-group-3762968153",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Responsibilities include:\n\nThis team is moving towards micro front end architecture\n• Need someone with experience to guide best practices in React, and work with the lead Architect to get to micro front end architecture\n• The concepts are in place but they need someone to continue to drive independent technology advancements\n• Responsibilities mainly fall in the front end, if they get someone with a little bit of full stack experience that is fine\n• Preferred for them to have lead experience already, a senior dev with no directs will be a steep learning curve\n• Building a common framework for UI – micro front end, building the shell for the teams to leverage moving forward\n• Not interfacing with stakeholders, mostly with the architecture team, mentoring and coaching, working closely with lead architect\n• Build and integrate a common framework, helping with solutions, code reviews\n• React testing libraries, overall understanding of what the best approach is\n\nMust Have Skills:\n• Experience in developing using React, Redux, Webpack, etc.\n• Professional experience in building front-end frameworks and web technologies including HTML/CSS, JavaScript or Typescript, web components, Node.js or Vue.js or React.\n• Proven experience with building digital restful APIs (GraphQL is a plus)\n• Working knowledge of diverse front-end related technologies and new and current architectures such as - React JS, Vue JS, Redux, or other state management libraries, Node JS, Express Server, Unit testing with Jest, React testing library, Mocha, Chai, Enzyme.\n• Strong technical background on developing enterprise digital applications with MVC design pattern, micro front-end strategy and open micro service architectures.",
+            "job_is_remote": false,
+            "job_posted_at_timestamp": 1699648838,
+            "job_posted_at_datetime_utc": "2023-11-10T20:40:38.000Z",
+            "job_city": "Winston-Salem",
+            "job_state": "NC",
+            "job_country": "US",
+            "job_latitude": 36.09986,
+            "job_longitude": -80.24422,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react&htidocid=B_74OsHSMFf5KDhQAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": "2023-12-10T20:40:37.000Z",
+            "job_offer_expiration_timestamp": 1702240837,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": null,
+                "experience_mentioned": true,
+                "experience_preferred": true
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": true,
+                "degree_mentioned": false,
+                "degree_preferred": false,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": 60,
+            "job_max_salary": 75,
+            "job_salary_currency": "USD",
+            "job_salary_period": "HOUR",
+            "job_highlights": {
+                "Qualifications": [
+                    "Experience in developing using React, Redux, Webpack, etc",
+                    "Professional experience in building front-end frameworks and web technologies including HTML/CSS, JavaScript or Typescript, web components, Node.js or Vue.js or React",
+                    "Working knowledge of diverse front-end related technologies and new and current architectures such as - React JS, Vue JS, Redux, or other state management libraries, Node JS, Express Server, Unit testing with Jest, React testing library, Mocha, Chai, Enzyme",
+                    "Strong technical background on developing enterprise digital applications with MVC design pattern, micro front-end strategy and open micro service architectures"
+                ],
+                "Responsibilities": [
+                    "Not interfacing with stakeholders, mostly with the architecture team, mentoring and coaching, working closely with lead architect",
+                    "Build and integrate a common framework, helping with solutions, code reviews"
+                ]
+            },
+            "job_job_title": null,
+            "job_posting_language": "en",
+            "job_onet_soc": "15113400",
+            "job_onet_job_zone": "3"
+        },
+        {
+            "employer_name": "Gartner Careers",
+            "employer_logo": null,
+            "employer_website": null,
+            "employer_company_type": null,
+            "job_publisher": "Gartner Careers",
+            "job_id": "s_dNMljzXsUcX50VAAAAAA==",
+            "job_employment_type": "FULLTIME",
+            "job_title": "Sr Software Engineer (React)",
+            "job_apply_link": "https://jobs.gartner.com/jobs/job/82672-sr-software-engineer-react/",
+            "job_apply_is_direct": false,
+            "job_apply_quality_score": 0.9239,
+            "apply_options": [
+                {
+                    "publisher": "Gartner Careers",
+                    "apply_link": "https://jobs.gartner.com/jobs/job/82672-sr-software-engineer-react/",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/sr-software-engineer-react-at-gartner-3757561929",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Diversity Jobs",
+                    "apply_link": "https://diversityjobs.com/career/6727998/Sr-Software-Engineer-React-Texas-Austin",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Salary.com",
+                    "apply_link": "https://www.salary.com/job/gartner/sr-software-engineer-react/j202311070936500406791",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "BeBee",
+                    "apply_link": "https://us.bebee.com/job/20231107-7cba6508649e6a36d932752945c45a9e",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Jooble",
+                    "apply_link": "https://jooble.org/jdp/1992604483075153998/Sr-Software-Engineer-(React)-Austin%2C-TX",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "Jobrapido.com",
+                    "apply_link": "https://us.jobrapido.com/jobpreview/3075643238",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Gartner - Talentify",
+                    "apply_link": "https://gartner.talentify.io/job/sr-software-engineer-react-austin-texas-gartner-82672",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "About Gartner Digital Markets:\n\nGartner Digital Markets is a business unit within Gartner. Our mission is to help small businesses make the right technology choices and find the tools they need to grow, optimize, and become more effective at what they do. The business is comprised of three top brands—Capterra, Software Advice, and GetApp. For candidates interested in taking their next career step in the technology space, Gartner Digital Markets offers the fast pace and excitement of working for a startup, the stability and resources of a large, established organization, and the opportunity to be on the front lines of innovation in an industry that is always growing and transforming.\n\nWhat we’re looking for:\n\nGartner Digital Markets is looking for a Software Engineer to join a team distributed between Barcelona, Spain and Austin, TX US to create and expand integrations between different software systems. This person should have a background in cloud architecture and strong coding skills.\n\nWhy you’ll want to come to work:\n• Deliver outstanding software that improves user experience across multiple form factors with attention to functionality and reliability.\n• Analyze, troubleshoot. and optimize cloud based applications and code for quality, efficiency, and performance.\n• Work closely with product owners and other engineering teams to solve complex business problems.\n• Collaborate with your team and work in an environment where all responsibilities are shared across your team.\n• Design and implement new solutions including software design, architecture, coding, testing and delivering. Own the whole SDLC of your applications.\n• Integrate multiple components and/or services into complex solutions that may involve security, authentication, authorization, accessibility, performance, reliability, observability, logging, and/or resiliency.\n• Collaborate with other members.\n\nWhat you’ll bring to the team:\n• 5+ years of experience working as a Software Engineer.\n• 5+ years of experience developing & designing applications in React/Typescript\n• Experience building maintainable and testable code bases, including experience writing tests.\n• Experience with UX/UI best practices\n• Experience building solutions that integrate multiple components and/or services (for example cloud services and APIs) and experience building web based APIs.\n• Willingness to learn (or knowledge in) PHP and AWS solutions, Docker, GoLang\n• Experience working under Agile-based development cycles and processes.\n• Experience with relational databases and SQL.\n• Experience mentoring and sharing knowledge with other developers on the team\n\nCheck out our video to learn about who we are, and what we do:\n\nyoutube.com/watch?v=oSO_h5VZ9a0\n\nWhat you’ll receive:\n• Competitive compensation packages.\n• Limitless growth and learning opportunities.\n• A collaborative and positive culture - join a diverse team of professionals that are as smart and driven as you.\n• A chance to make an impact – your work will contribute directly to our strategy.\n• Hybrid, virtual-first, environment with flexibility, remote work, and more.\n• Extensive medical, dental, and vision insurance.\n• 20+ PTO days plus holidays and floating holidays in your first year.\n• 401k with corporate match.\n• Health-and-wellness-related allowance programs.\n• Tuition reimbursement.\n• Employee Stock Purchase Plan.\n• Employee Assistance Program.\n• Gartner Gives Charity Match.\n\nAnd much more!\n\nWhat we are:\n• Action Oriented - Deliver fast, get great results. We embrace the vision, roadmap to success and the action it takes to make it happen.\n• Intellectually Curious - Seek to learn, love to teach. We’re humble and embrace respectful, radical candor with a mindset of ongoing professional and personal development.\n• Collaborative - One team, shared mission. We welcome feedback and understand the value of working together to accomplish more than what is possible individually.\n\nWeb: gartner.com/en/digital-markets\n\nCareers: jobs.gartner.com/teams/digital-markets\n\n#digitalmarkets\n\n#LI-Hybrid\n\nWho are we?\n\nAt Gartner, Inc. (NYSE: IT), we deliver actionable, objective insight that drives smarter decisions and stronger performance on an organization’s mission-critical priorities. We’ve grown exponentially since our founding in 1979 and we're proud to have over 19,500 associates globally that support over 15,000 client enterprises in more than 100 countries.\n\nWhat makes Gartner a great place to work?\n\nOur teams are composed of individuals from different geographies, cultures, religions, ethnicities, races, genders, sexual orientations, abilities and generations. We believe that a diversity of experiences makes us stronger—as individuals, as communities and as an organization. That’s why we're recognized worldwide as a great place to work year after year. We've been recognized by Fortune as one of the World’s Most Admired Companies, named a Best Place to Work for LGBTQ Equality by the Human Rights Campaign Corporate Equality Index and a Best Place to Work for Disability Inclusion by the Disability Equality Index. Looking for a place to turn your big ideas into reality? Join #LifeAtGartner\n\nWhat we offer:\n\nOur people are our most valuable asset, so we invest in them from Day 1. When you join our team, you’ll have access to a vast array of benefits to help you live your life well. These resources are designed to support your physical, financial and emotional well-being. We encourage continued personal and professional growth through ongoing learning and development opportunities. Our employee resource groups, charity match and volunteer programs keep you connected to your internal Gartner community and causes that matter to you.\nGartner believes in fair and equitable pay. A reasonable estimate of the base salary range for this role is 97,600 USD - 149,000 USD. Please note that actual salaries may vary within the range, or be above or below the range, based on factors including, but not limited to, education, training, experience, professional achievement, business need, and location. In addition to base salary, employees will participate in either an annual bonus plan based on company and individual performance, or a role-based, uncapped sales incentive plan. Our talent acquisition team will provide the specific opportunity on our bonus or incentive programs to eligible candidates. We also offer market leading benefit programs including generous PTO, a 401k match up to $7,200 per year, the opportunity to purchase company stock at a discount, and more.\n\nThe policy of Gartner is to provide equal employment opportunities to all applicants and employees without regard to race, color, creed, religion, sex, sexual orientation, gender identity, marital status, citizenship status, age, national origin, ancestry, disability, veteran status, or any other legally protected status and to affirmatively seek to advance the principles of equal employment opportunity.\n\nGartner is committed to being an Equal Opportunity Employer and offers opportunities to all job seekers, including job seekers with disabilities. If you are a qualified individual with a disability or a disabled veteran, you may request a reasonable accommodation if you are unable or limited in your ability to use or access the Company’s career webpage as a result of your disability. You may request reasonable accommodations by calling Human Resources at +1 (203) 964-0096 or by sending an email to ApplicantAccommodations@gartner.com .\nJob Requisition ID:82672\n\nBy submitting your information and application, you confirm that you have read and agree to the country or regional recruitment notice linked below applicable to your place of residence.\n\nGartner Applicant Privacy Link: https://jobs.gartner.com/applicant-privacy-policy\n\nFor efficient navigation through the application, please only use the back button within the application, not the back arrow within your browser.",
+            "job_is_remote": false,
+            "job_posted_at_timestamp": 1699228800,
+            "job_posted_at_datetime_utc": "2023-11-06T00:00:00.000Z",
+            "job_city": "Austin",
+            "job_state": "TX",
+            "job_country": "US",
+            "job_latitude": 30.267153,
+            "job_longitude": -97.74306,
+            "job_benefits": [
+                "paid_time_off",
+                "dental_coverage",
+                "retirement_savings",
+                "health_insurance"
+            ],
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react&htidocid=s_dNMljzXsUcX50VAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": null,
+            "job_offer_expiration_timestamp": null,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": 60,
+                "experience_mentioned": true,
+                "experience_preferred": false
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": false,
+                "degree_mentioned": false,
+                "degree_preferred": false,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_currency": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "This person should have a background in cloud architecture and strong coding skills",
+                    "5+ years of experience working as a Software Engineer",
+                    "5+ years of experience developing & designing applications in React/Typescript",
+                    "Experience building maintainable and testable code bases, including experience writing tests",
+                    "Experience with UX/UI best practices",
+                    "Experience building solutions that integrate multiple components and/or services (for example cloud services and APIs) and experience building web based APIs",
+                    "Willingness to learn (or knowledge in) PHP and AWS solutions, Docker, GoLang",
+                    "Experience working under Agile-based development cycles and processes",
+                    "Experience with relational databases and SQL",
+                    "Experience mentoring and sharing knowledge with other developers on the team",
+                    "Intellectually Curious - Seek to learn, love to teach",
+                    "We’re humble and embrace respectful, radical candor with a mindset of ongoing professional and personal development"
+                ],
+                "Responsibilities": [
+                    "Analyze, troubleshoot",
+                    "and optimize cloud based applications and code for quality, efficiency, and performance",
+                    "Work closely with product owners and other engineering teams to solve complex business problems",
+                    "Collaborate with your team and work in an environment where all responsibilities are shared across your team",
+                    "Design and implement new solutions including software design, architecture, coding, testing and delivering",
+                    "Own the whole SDLC of your applications",
+                    "Integrate multiple components and/or services into complex solutions that may involve security, authentication, authorization, accessibility, performance, reliability, observability, logging, and/or resiliency",
+                    "Collaborate with other members"
+                ],
+                "Benefits": [
+                    "Competitive compensation packages",
+                    "Limitless growth and learning opportunities",
+                    "A collaborative and positive culture - join a diverse team of professionals that are as smart and driven as you",
+                    "A chance to make an impact – your work will contribute directly to our strategy",
+                    "Hybrid, virtual-first, environment with flexibility, remote work, and more",
+                    "Extensive medical, dental, and vision insurance",
+                    "20+ PTO days plus holidays and floating holidays in your first year",
+                    "401k with corporate match",
+                    "Health-and-wellness-related allowance programs",
+                    "Tuition reimbursement",
+                    "Employee Stock Purchase Plan",
+                    "Employee Assistance Program",
+                    "Gartner Gives Charity Match",
+                    "When you join our team, you’ll have access to a vast array of benefits to help you live your life well",
+                    "Please note that actual salaries may vary within the range, or be above or below the range, based on factors including, but not limited to, education, training, experience, professional achievement, business need, and location",
+                    "In addition to base salary, employees will participate in either an annual bonus plan based on company and individual performance, or a role-based, uncapped sales incentive plan",
+                    "Our talent acquisition team will provide the specific opportunity on our bonus or incentive programs to eligible candidates",
+                    "We also offer market leading benefit programs including generous PTO, a 401k match up to $7,200 per year, the opportunity to purchase company stock at a discount, and more"
+                ]
+            },
+            "job_job_title": "Software engineer",
+            "job_posting_language": "en",
+            "job_onet_soc": "15113400",
+            "job_onet_job_zone": "3"
+        },
+        {
+            "employer_name": "Leidos",
+            "employer_logo": "https://www.leidos.com/themes/custom/leidos/logo.png",
+            "employer_website": "http://www.leidos.com",
+            "employer_company_type": "Computer Services",
+            "job_publisher": "Leidos Careers",
+            "job_id": "0j_8qemscWQJq6rcAAAAAA==",
+            "job_employment_type": "FULLTIME",
+            "job_title": "React Developer",
+            "job_apply_link": "https://careers.leidos.com/jobs/13582445-react-developer",
+            "job_apply_is_direct": false,
+            "job_apply_quality_score": 0.8151,
+            "apply_options": [
+                {
+                    "publisher": "Leidos Careers",
+                    "apply_link": "https://careers.leidos.com/jobs/13582445-react-developer",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/react-developer-at-leidos-3762362575",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Levels.fyi",
+                    "apply_link": "https://www.levels.fyi/jobs?jobId=74039826367554246",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "SaluteMyJob",
+                    "apply_link": "https://salutemyjob.com/jobs/react-developer-mechanicsburg-pennsylvania/1161792062-2/",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Diversity Jobs",
+                    "apply_link": "https://diversityjobs.com/career/6757210/React-Developer-Pennsylvania-Mechanicsburg",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "WANE Jobs",
+                    "apply_link": "https://jobs.wane.com/jobs/react-developer-mechanicsburg-pennsylvania/1161792062-2/",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Hire Heroes USA Job Board",
+                    "apply_link": "https://jobs.hireheroesusa.org/jobs/286850842-react-developer-at-leidos",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Fairygodboss",
+                    "apply_link": "https://fairygodboss.com/jobs/leidos/react-developer-8b147210679defe8648af6f9b5a58c39",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Description\n\nLeidos is seeking an experienced JavaScript developer who is proficient with React.js. The primary focus of the selected candidate would be developing user interface components including implementation and execution that follows well-known React.js workflows. The selected candidate will ensure these components and the overall application are robust and easy to manage. Commitment to collaborative problem solving, sophisticated design, and quality products is important.\n\nThis position requires a US citizenship and the ability to obtain a DoD Secret security clearance.\n\nPrimary Responsibilities:\n• Develop user-facing features using React.js.\n• Develop modern, highly responsive web-based UI.\n• Build reusable components and front-end libraries for future use.\n• Translate designs into high-quality code.\n• Optimize components for maximum performance across a vast array of web-capable devices and browsers.\n• Coordinate with various teams working on distinct layers and processes.\n• Have knowledge of accessibility/UX best practices and Section 508 compliance, and/or WCAG 2.0 standards.\n• Administer Developer training.\n• Conduct Code Reviews.\n\nBasic Qualifications:\n• Bachelor's Degree in Software Engineering, Computer Science, or related field and 4+ years of software engineering experience. Additional experience, trainings, or certifications may be considered in lieu of a degree.\n• 3+ years of experience with React.js.\n• In-depth knowledge of JavaScript, CSS, HTML, and front-end languages.\n• Experience with SASS.\n• Familiarity with RESTful web services, Service workers.\n• Hands-on experience with response frameworks such as Bootstrap.\n• Knowledge of modern dev tools Webpack, Babel, NPM, Enzyme.\n• Experience with UI design.\n• Knowledge of performance testing frameworks including Enzyme and Jest.\n• Experience with browser-based debugging and performance testing software.\n• Experience with GIT.\n• Strong, self-motivated desire to learn new programming languages, tools, frameworks, and techniques.\n• Ability to complete tasking independently with minimal direct supervision.\n• Ability to work and collaborate effectively within a multi-disciplined develop team.\n• Must be a US citizen with the ability to obtain a DoD Secret Security Clearance.\n\nPreferred Qualifications:\n• Experience with Kendo UI for React\n• Experience with Progressive Web Apps (PWA)\n• Familiar with modern browser APIs (Permission, Promise, Offline Storage, Notifications, etc)\n• Knowledge of modern authorization mechanisms, such as JSON Web Token\n• Experience with Large-scale application development\n• Good project management skills\n• Active DoD security clearance.\n\nLMS2023\n\nPay Range:\nPay Range $78,000.00 - $141,000.00\n\nThe Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.",
+            "job_is_remote": false,
+            "job_posted_at_timestamp": 1699560668,
+            "job_posted_at_datetime_utc": "2023-11-09T20:11:08.000Z",
+            "job_city": "Mechanicsburg",
+            "job_state": "PA",
+            "job_country": "US",
+            "job_latitude": 40.21327,
+            "job_longitude": -77.00803,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react&htidocid=0j_8qemscWQJq6rcAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": null,
+            "job_offer_expiration_timestamp": null,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": 48,
+                "experience_mentioned": true,
+                "experience_preferred": false
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": false,
+                "degree_mentioned": true,
+                "degree_preferred": true,
+                "professional_certification_mentioned": true
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_currency": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "This position requires a US citizenship and the ability to obtain a DoD Secret security clearance",
+                    "Bachelor's Degree in Software Engineering, Computer Science, or related field and 4+ years of software engineering experience",
+                    "Additional experience, trainings, or certifications may be considered in lieu of a degree",
+                    "3+ years of experience with React.js",
+                    "In-depth knowledge of JavaScript, CSS, HTML, and front-end languages",
+                    "Experience with SASS",
+                    "Familiarity with RESTful web services, Service workers",
+                    "Hands-on experience with response frameworks such as Bootstrap",
+                    "Knowledge of modern dev tools Webpack, Babel, NPM, Enzyme",
+                    "Experience with UI design",
+                    "Knowledge of performance testing frameworks including Enzyme and Jest",
+                    "Experience with browser-based debugging and performance testing software",
+                    "Experience with GIT",
+                    "Strong, self-motivated desire to learn new programming languages, tools, frameworks, and techniques",
+                    "Ability to complete tasking independently with minimal direct supervision",
+                    "Ability to work and collaborate effectively within a multi-disciplined develop team",
+                    "Must be a US citizen with the ability to obtain a DoD Secret Security Clearance"
+                ],
+                "Responsibilities": [
+                    "The primary focus of the selected candidate would be developing user interface components including implementation and execution that follows well-known React.js workflows",
+                    "The selected candidate will ensure these components and the overall application are robust and easy to manage",
+                    "Commitment to collaborative problem solving, sophisticated design, and quality products is important",
+                    "Develop user-facing features using React.js",
+                    "Develop modern, highly responsive web-based UI",
+                    "Build reusable components and front-end libraries for future use",
+                    "Translate designs into high-quality code",
+                    "Optimize components for maximum performance across a vast array of web-capable devices and browsers",
+                    "Coordinate with various teams working on distinct layers and processes",
+                    "Have knowledge of accessibility/UX best practices and Section 508 compliance, and/or WCAG 2.0 standards",
+                    "Administer Developer training",
+                    "Conduct Code Reviews"
+                ],
+                "Benefits": [
+                    "Pay Range $78,000.00 - $141,000.00",
+                    "The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary"
+                ]
+            },
+            "job_job_title": null,
+            "job_posting_language": "en",
+            "job_onet_soc": "15113400",
+            "job_onet_job_zone": "3",
+            "job_naics_code": "541512",
+            "job_naics_name": "Computer Systems Design Services"
+        },
+        {
+            "employer_name": "Dice",
+            "employer_logo": "https://s24.q4cdn.com/133441296/files/images/brands/dice.png",
+            "employer_website": null,
+            "employer_company_type": "Information",
+            "job_publisher": "LinkedIn",
+            "job_id": "B6iVTZXS2C_VTWg-AAAAAA==",
+            "job_employment_type": "FULLTIME",
+            "job_title": "React Native Mobile Application Developer",
+            "job_apply_link": "https://www.linkedin.com/jobs/view/react-native-mobile-application-developer-at-dice-3763295839",
+            "job_apply_is_direct": false,
+            "job_apply_quality_score": 0.6227,
+            "apply_options": [
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/react-native-mobile-application-developer-at-dice-3763295839",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, National Computer Systems, is seeking the following. Apply via Dice today!\n\nReact Native Mobile Application Developer\n\nLocation Houston, TX\n\nFull time\n\nNeed strong React Native, Graph QL, React JS\n\nSQL, MYSQL\n\nThanks & Regards,\n\nAlex Sr. Talent Acquisition Specialist\n\n_______________________\n\nDirect:\n\nE-mail :\n\nLinkedIn:\n\nWeb :\n\n255 Old New Brunswick Rd, Piscataway, NJ 08854,",
+            "job_is_remote": true,
+            "job_posted_at_timestamp": 1699660800,
+            "job_posted_at_datetime_utc": "2023-11-11T00:00:00.000Z",
+            "job_city": "Houston",
+            "job_state": "MO",
+            "job_country": "US",
+            "job_latitude": 37.32616,
+            "job_longitude": -91.955986,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react&htidocid=B6iVTZXS2C_VTWg-AAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": "2023-12-11T15:14:11.000Z",
+            "job_offer_expiration_timestamp": 1702307651,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": null,
+                "experience_mentioned": false,
+                "experience_preferred": false
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": true,
+                "degree_mentioned": false,
+                "degree_preferred": false,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_currency": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Need strong React Native, Graph QL, React JS"
+                ]
+            },
+            "job_job_title": null,
+            "job_posting_language": "en",
+            "job_onet_soc": "15113200",
+            "job_onet_job_zone": "4",
+            "job_naics_code": "519130",
+            "job_naics_name": "Internet Publishing and Broadcasting and Web Search Portals"
+        },
+        {
+            "employer_name": "Lumicity",
+            "employer_logo": null,
+            "employer_website": null,
+            "employer_company_type": null,
+            "job_publisher": "SaluteMyJob",
+            "job_id": "HHuCJZuIhaOJGz7uAAAAAA==",
+            "job_employment_type": "FULLTIME",
+            "job_title": "React Native Mobile Developer (Not Remote)",
+            "job_apply_link": "https://salutemyjob.com/jobs/react-native-mobile-developer-not-remote-denver-colorado/1161505617-2/",
+            "job_apply_is_direct": false,
+            "job_apply_quality_score": 0.5805,
+            "apply_options": [
+                {
+                    "publisher": "SaluteMyJob",
+                    "apply_link": "https://salutemyjob.com/jobs/react-native-mobile-developer-not-remote-denver-colorado/1161505617-2/",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "BeBee",
+                    "apply_link": "https://us.bebee.com/job/20231103-d1e57df740ee8f5eef0c533daef37839",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "KHON2 Jobs",
+                    "apply_link": "https://jobs.khon2.com/jobs/react-native-mobile-developer-not-remote-denver-colorado/1154061699-2/",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "WJHL Jobs",
+                    "apply_link": "https://jobs.wjhl.com/jobs/react-native-mobile-developer-not-remote-denver-colorado/1154061699-2/",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "KNWA & FOX24 Jobs",
+                    "apply_link": "https://jobs.nwahomepage.com/jobs/react-native-mobile-developer-not-remote-denver-colorado/1161505617-2/",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "MyArklaMiss Jobs",
+                    "apply_link": "https://jobs.myarklamiss.com/jobs/react-native-mobile-developer-not-remote-denver-colorado/1154061699-2/",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Big Country Jobs",
+                    "apply_link": "https://jobs.bigcountryhomepage.com/jobs/react-native-mobile-developer-not-remote-denver-colorado/1154061699-2/",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Queen City News Jobs",
+                    "apply_link": "https://jobs.qcnews.com/jobs/react-native-mobile-developer-not-remote-denver-colorado/1161505617-2/",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "My client is a startup in the green technology space that is quickly growing and looking to bring on a mobile engineer as they develop new projects.\n\nThis role is hybrid, 2 days onsite in the San Mateo area.\n\nRequirements:\n• 4-5+ years of experience minimum\n• Well versed with React Native\n• Experience developing mobile applications throughout the full lifecycle\n\nCompensation for this role is split between a cash and pre-IPO equity. The standard range for this role is $140-180k, with a bit of flexibility for the right candidates, and the chance for a leadership position to be offered.\n\nApply with a resume for immediate consideration!",
+            "job_is_remote": false,
+            "job_posted_at_timestamp": 1699552112,
+            "job_posted_at_datetime_utc": "2023-11-09T17:48:32.000Z",
+            "job_city": "Denver",
+            "job_state": "CO",
+            "job_country": "US",
+            "job_latitude": 39.68737,
+            "job_longitude": -104.945656,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react&htidocid=HHuCJZuIhaOJGz7uAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": "2023-12-09T17:48:32.000Z",
+            "job_offer_expiration_timestamp": 1702144112,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": 48,
+                "experience_mentioned": true,
+                "experience_preferred": false
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": false,
+                "degree_mentioned": false,
+                "degree_preferred": false,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_currency": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "4-5+ years of experience minimum",
+                    "Well versed with React Native",
+                    "Experience developing mobile applications throughout the full lifecycle"
+                ],
+                "Benefits": [
+                    "The standard range for this role is $140-180k, with a bit of flexibility for the right candidates, and the chance for a leadership position to be offered"
+                ]
+            },
+            "job_job_title": null,
+            "job_posting_language": "en",
+            "job_onet_soc": "15113200",
+            "job_onet_job_zone": "4"
+        },
+        {
+            "employer_name": "Avi Technologies Inc.",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScwALObEbqBxxZDyNG_FopiCGBc-3s3mgdprxj&s=0",
+            "employer_website": null,
+            "employer_company_type": null,
+            "job_publisher": "LinkedIn",
+            "job_id": "Z50GIuIWDYy_Zq5qAAAAAA==",
+            "job_employment_type": "FULLTIME",
+            "job_title": "React UI Developer",
+            "job_apply_link": "https://www.linkedin.com/jobs/view/react-ui-developer-at-avi-technologies-inc-3756009691",
+            "job_apply_is_direct": false,
+            "job_apply_quality_score": 0.6753,
+            "apply_options": [
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/react-ui-developer-at-avi-technologies-inc-3756009691",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Dice",
+                    "apply_link": "https://www.dice.com/job-detail/4337dbaa-ac31-4947-a1bc-3eeb89874024",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "Monster",
+                    "apply_link": "https://www.monster.com/job-openings/react-ui-developer-ashburn-va--a7480718-3818-49f6-a950-47b8c3dccdcb",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "CareerBuilder",
+                    "apply_link": "https://www.careerbuilder.com/job/J3M7RX6ZZHVD054T7R4",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Talent.com",
+                    "apply_link": "https://www.talent.com/view?id=5c887ffce27e",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "BeBee",
+                    "apply_link": "https://us.bebee.com/job/20231109-af65c8f74fa370d2e7905ddef33fd913",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Trabajo.org",
+                    "apply_link": "https://us.trabajo.org/job-2002-20231109-ad02ade7c79835edf1c86b84445be244",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "React Jobs",
+                    "apply_link": "https://reactjsjob.com/job/2XoDBG4l2eDaimKTJBH30uIBRJw/React%20UI%20Developer",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "THIS IS A FULL-TIME POSITION HYBRID IN ASHBURN VA\n\nWhat You’ll Do\n\nAs a senior React developer, you’ll help us develop components of the user interface and implement them through React.js workflows like Redux or Flux. Additionally, you will make sure that those user interface components are easy to maintain and robust. Also, you will coordinate with your team members who are responsible for various infrastructure layers. For this position, a deep commitment to sophisticated design, problem solving, and quality products is vital.\n\nResponsibilities\n\n• Reviewing interface designs and application requirements;\n\n• Discussing applications and user interface ideas with the development team\n\n• Identifying and enabling user interactions on a web platform;\n\n• Using React concepts to implement and develop responsive components of the user interface;\n\n• Following React.js workflows and writing application interfaces via JavaScript;\n\n• Debugging application code and troubleshooting interface software;\n\n• Developing and maintaining front-end architectures that support user interfaces;\n\n• Improving and monitoring front-end performance\n\n• Developing updates and documenting application changes.\n\n• Proficiency in Bootstrap.\n\n• Knowledge of Webhooks.\n\nNecessary Qualifications\n\n• Proficiency in frequently used React tools like Flux, Redux, webpack, etc.\n\n• Bachelor’s Degree in Mathematics, Computer Science, or any relevant alternative training in computer programming;\n\n• 5 years of overall experience in front-end development\n\nIn-depth knowledge of the development of web-based user interfaces with React.js workflows like Redux or Flux is required.\n\nAs a senior React developer, you’ll help us develop components of the user interface and implement them through React.js workflows like Redux or Flux. Additionally, you will make sure that those user interface components are easy to maintain and robust. Also, you will coordinate with your team members who are responsible for various infrastructure layers. For this position, a deep commitment to sophisticated design, problem solving, and quality products is vital.\n\nResponsibilities\n\n• Reviewing interface designs and application requirements;\n\n• Discussing applications and user interface ideas with the development team\n\n• Identifying and enabling user interactions on a web platform;\n\n• Using React concepts to implement and develop responsive components of the user interface;\n\n• Following React.js workflows and writing application interfaces via JavaScript;\n\n• Debugging application code and troubleshooting interface software;\n\n• Developing and maintaining front-end architectures that support user interfaces;\n\n• Improving and monitoring front-end performance\n\n• Developing updates and documenting application changes.\n\n• Proficiency in Bootstrap.\n\n• Knowledge of Webhooks.\n\nNecessary Qualifications\n\n• Proficiency in frequently used React tools like Flux, Redux, webpack, etc.\n\n• Bachelor’s Degree in Mathematics, Computer Science, or any relevant alternative training in computer programming;\n\n• 5 years of overall experience in front-end development\n\nIn-depth knowledge of the development of web-based user interfaces with React.js workflows like Redux or Flux is required.",
+            "job_is_remote": false,
+            "job_posted_at_timestamp": 1699543621,
+            "job_posted_at_datetime_utc": "2023-11-09T15:27:01.000Z",
+            "job_city": "Ashburn",
+            "job_state": "VA",
+            "job_country": "US",
+            "job_latitude": 39.04376,
+            "job_longitude": -77.48744,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react&htidocid=Z50GIuIWDYy_Zq5qAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": "2023-12-09T15:27:01.000Z",
+            "job_offer_expiration_timestamp": 1702135621,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": 60,
+                "experience_mentioned": true,
+                "experience_preferred": false
+            },
+            "job_required_skills": [
+                "Computer Programming",
+                "Skill Development",
+                "React.js",
+                "Flux",
+                "Computer Science",
+                "Interfaces",
+                "Front-End Development",
+                "User Interface Design",
+                "Redux.js",
+                "Application Development"
+            ],
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": true,
+                "degree_mentioned": true,
+                "degree_preferred": true,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_currency": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Proficiency in frequently used React tools like Flux, Redux, webpack, etc",
+                    "Bachelor’s Degree in Mathematics, Computer Science, or any relevant alternative training in computer programming;",
+                    "5 years of overall experience in front-end development",
+                    "In-depth knowledge of the development of web-based user interfaces with React.js workflows like Redux or Flux is required"
+                ],
+                "Responsibilities": [
+                    "As a senior React developer, you’ll help us develop components of the user interface and implement them through React.js workflows like Redux or Flux",
+                    "Additionally, you will make sure that those user interface components are easy to maintain and robust",
+                    "Also, you will coordinate with your team members who are responsible for various infrastructure layers",
+                    "For this position, a deep commitment to sophisticated design, problem solving, and quality products is vital",
+                    "Reviewing interface designs and application requirements;",
+                    "Discussing applications and user interface ideas with the development team",
+                    "Identifying and enabling user interactions on a web platform;",
+                    "Using React concepts to implement and develop responsive components of the user interface;",
+                    "Following React.js workflows and writing application interfaces via JavaScript;",
+                    "Debugging application code and troubleshooting interface software;",
+                    "Developing and maintaining front-end architectures that support user interfaces;",
+                    "Improving and monitoring front-end performance",
+                    "Developing updates and documenting application changes",
+                    "Proficiency in Bootstrap"
+                ]
+            },
+            "job_job_title": null,
+            "job_posting_language": "en",
+            "job_onet_soc": "15113400",
+            "job_onet_job_zone": "3"
+        }
+    ]
